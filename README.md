@@ -6,12 +6,12 @@ Sou estudante do terceiro ano de ciência da computação na Universidade do Est
 ## 🚀 O que Eu Posso Fazer
 
 - 🤖 Explorando Machine Learning com [scikit-learn]
-- 💻 Desenvolva utilitários de linha de comando para automação de tarefas ou interação com APIs
-- 📊 Trabalho em projetos de análise, visualização ou mineração de dados
+- 💻 Desenvolvendo utilitários de linha de comando para automação de tarefas ou interação com APIs
+- 📊 Trabalhando em projetos de análise, visualização ou mineração de dados
 
 
 
-## 🌐 Connect with me:
+## 🌐 Se conecte comigo:
 <div> 
   <a href="https://instagram.com/jottapecsd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "jpsantosc1503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
