@@ -5,7 +5,7 @@ Sou estudante do terceiro ano de ciência da computação na Universidade do Est
 
 ## 🚀 O que Eu Posso Fazer
 
-- 🤖 Exploro Machine Learning with [scikit-learn]
+- 🤖 Explorando Machine Learning com [scikit-learn]
 - 💻 Desenvolva utilitários de linha de comando para automação de tarefas ou interação com APIs
 - 📊 Trabalho em projetos de análise, visualização ou mineração de dados
 
